@@ -50,6 +50,7 @@ for (t,s,l) in maps[0]:
 
 boundaries = sorted(boundaries)
 minloc = -1
+print(len(boundaries))
 for start,count in seeds2:
     print(start,count)
     candidates = []
