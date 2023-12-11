@@ -96,6 +96,9 @@ for i in range(mi):
                     enclosed = not enclosed
                     onboundary = None 
             elif g[i][j] in verts:
+                # Special case L---7 and F---J
+                # These two cases boundary cases effectively
+                # behave as if it is shifted upwards by a teeny bit.
                 if g[i][j] == 'L':
                     onboundary = '7' 
                 elif g[i][j] == 'F':
