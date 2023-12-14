@@ -45,15 +45,22 @@ def search(s, cons, idx, memo):
 
 
 total = 0
+maxways = 0
+maxs = ""
 for l in f:
     s , cons = l.split(' ')
+    ts = l 
     s = list(s)
     cons = [int(i) for i in cons.split(',')]
     s = s + ['?'] + s + ['?'] + s + ['?'] + s + ['?'] + s
     cons = cons * 5
     ways = search(s, cons, 0, {})
+    if ways > maxways:
+        maxways = ways
+        maxs = ts
     print(ways)
     total += ways
 
 print(total)
-
+print(maxways)
+print(maxs)
