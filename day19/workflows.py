@@ -1,0 +1,2964 @@
+def f_qbl(x,m,a,s):
+    if m<1574:
+        return True
+    return False
+def f_spp(x,m,a,s):
+    if a<2917:
+        return f_znm(x,m,a,s)
+    if a>3411:
+        return f_hqz(x,m,a,s)
+    if a<3171:
+        return f_sm(x,m,a,s)
+    return f_mt(x,m,a,s)
+def f_hr(x,m,a,s):
+    if m>2184:
+        return False
+    return False
+def f_ts(x,m,a,s):
+    if m<252:
+        return False
+    if m<371:
+        return False
+    if a>3579:
+        return True
+    return f_fn(x,m,a,s)
+def f_jqx(x,m,a,s):
+    if a>2040:
+        return f_csq(x,m,a,s)
+    return f_nxz(x,m,a,s)
+def f_qft(x,m,a,s):
+    if x>2939:
+        return False
+    return False
+def f_nm(x,m,a,s):
+    if a<2683:
+        return True
+    return False
+def f_stf(x,m,a,s):
+    if x<3354:
+        return False
+    if s<3146:
+        return f_rxb(x,m,a,s)
+    return False
+def f_sz(x,m,a,s):
+    if s>1324:
+        return f_csh(x,m,a,s)
+    if s>1102:
+        return f_qhv(x,m,a,s)
+    return f_smb(x,m,a,s)
+def f_qm(x,m,a,s):
+    if s<2419:
+        return f_tf(x,m,a,s)
+    return f_fhq(x,m,a,s)
+def f_ln(x,m,a,s):
+    if s<3452:
+        return f_sdc(x,m,a,s)
+    if s>3806:
+        return False
+    if a>3329:
+        return f_mn(x,m,a,s)
+    return f_gtv(x,m,a,s)
+def f_sv(x,m,a,s):
+    if m<2846:
+        return True
+    if s>805:
+        return False
+    return False
+def f_mrb(x,m,a,s):
+    if s<892:
+        return True
+    return True
+def f_jtg(x,m,a,s):
+    if m>1009:
+        return f_pkt(x,m,a,s)
+    if a<3010:
+        return f_lzx(x,m,a,s)
+    return f_sp(x,m,a,s)
+def f_jq(x,m,a,s):
+    if x>3362:
+        return f_pk(x,m,a,s)
+    if x<3274:
+        return f_zxr(x,m,a,s)
+    return f_sjh(x,m,a,s)
+def f_vhl(x,m,a,s):
+    if a<3085:
+        return False
+    return True
+def f_lgm(x,m,a,s):
+    if s<1828:
+        return False
+    if m<1467:
+        return False
+    if s>2175:
+        return False
+    return True
+def f_pkh(x,m,a,s):
+    if a>2156:
+        return False
+    if a>1190:
+        return False
+    return False
+def f_mtk(x,m,a,s):
+    if s>339:
+        return True
+    if m>545:
+        return True
+    return False
+def f_vf(x,m,a,s):
+    if x>3575:
+        return f_gn(x,m,a,s)
+    return f_bzr(x,m,a,s)
+def f_rlr(x,m,a,s):
+    if s<2506:
+        return False
+    return f_pkh(x,m,a,s)
+def f_zq(x,m,a,s):
+    if a>892:
+        return f_jcv(x,m,a,s)
+    return False
+def f_vp(x,m,a,s):
+    if x<3837:
+        return f_zj(x,m,a,s)
+    if m<702:
+        return True
+    return True
+def f_hh(x,m,a,s):
+    if s>3225:
+        return f_thg(x,m,a,s)
+    return f_sjz(x,m,a,s)
+def f_lfg(x,m,a,s):
+    if m>3773:
+        return f_dbb(x,m,a,s)
+    if s>721:
+        return False
+    return f_ppq(x,m,a,s)
+def f_zcl(x,m,a,s):
+    if a<1277:
+        return True
+    if m>1478:
+        return False
+    return True
+def f_mxn(x,m,a,s):
+    if m<3702:
+        return f_zss(x,m,a,s)
+    if s>2616:
+        return False
+    if s>1078:
+        return f_vhh(x,m,a,s)
+    return False
+def f_ng(x,m,a,s):
+    if s>1410:
+        return f_qc(x,m,a,s)
+    if m<3268:
+        return f_fv(x,m,a,s)
+    if m<3580:
+        return f_tn(x,m,a,s)
+    return f_lfg(x,m,a,s)
+def f_tcq(x,m,a,s):
+    if x>3342:
+        return True
+    if a<2914:
+        return False
+    if s>3111:
+        return False
+    return True
+def f_js(x,m,a,s):
+    if x>2628:
+        return f_smq(x,m,a,s)
+    if x>2608:
+        return True
+    return f_vhl(x,m,a,s)
+def f_qp(x,m,a,s):
+    if s<1594:
+        return False
+    if x>1781:
+        return False
+    return True
+def f_sxj(x,m,a,s):
+    if s>387:
+        return False
+    if m<1853:
+        return True
+    return False
+def f_rdk(x,m,a,s):
+    if m<1026:
+        return f_rtm(x,m,a,s)
+    return f_xq(x,m,a,s)
+def f_zh(x,m,a,s):
+    if a<889:
+        return f_bxn(x,m,a,s)
+    return f_qpb(x,m,a,s)
+def f_hz(x,m,a,s):
+    if x<2951:
+        return True
+    return False
+def f_chm(x,m,a,s):
+    if x<3403:
+        return True
+    if x<3456:
+        return f_tmh(x,m,a,s)
+    return False
+def f_rds(x,m,a,s):
+    if a>2494:
+        return True
+    return True
+def f_nk(x,m,a,s):
+    if s<1558:
+        return False
+    return True
+def f_zv(x,m,a,s):
+    if s>1894:
+        return f_fqt(x,m,a,s)
+    return f_lrt(x,m,a,s)
+def f_rb(x,m,a,s):
+    if s>1278:
+        return f_zvr(x,m,a,s)
+    if m<1005:
+        return f_lr(x,m,a,s)
+    if s>621:
+        return f_hk(x,m,a,s)
+    return f_gq(x,m,a,s)
+def f_jxq(x,m,a,s):
+    if x<3571:
+        return f_lgq(x,m,a,s)
+    if s<720:
+        return False
+    return False
+def f_xf(x,m,a,s):
+    if a<2719:
+        return f_pj(x,m,a,s)
+    if a<2885:
+        return f_hfd(x,m,a,s)
+    return f_ctj(x,m,a,s)
+def f_klx(x,m,a,s):
+    if x<3699:
+        return False
+    if m>3744:
+        return True
+    if x>3898:
+        return True
+    return True
+def f_fgr(x,m,a,s):
+    if m>3061:
+        return True
+    if x<3000:
+        return True
+    return True
+def f_bzx(x,m,a,s):
+    if m>3605:
+        return f_gkz(x,m,a,s)
+    if m>3474:
+        return True
+    return f_mpt(x,m,a,s)
+def f_lh(x,m,a,s):
+    if s>2838:
+        return False
+    if s>2364:
+        return False
+    if a>3340:
+        return True
+    return False
+def f_cm(x,m,a,s):
+    if a<2481:
+        return f_jkn(x,m,a,s)
+    if m>2949:
+        return f_szf(x,m,a,s)
+    if a<3313:
+        return f_zkv(x,m,a,s)
+    return f_zv(x,m,a,s)
+def f_ddv(x,m,a,s):
+    if a<2893:
+        return False
+    return False
+def f_bn(x,m,a,s):
+    if s<3160:
+        return False
+    if x>3364:
+        return False
+    return True
+def f_rbq(x,m,a,s):
+    if a>1335:
+        return False
+    if s<1190:
+        return False
+    if x>2922:
+        return False
+    return False
+def f_zht(x,m,a,s):
+    if m>2105:
+        return False
+    if s<2964:
+        return False
+    if a>2355:
+        return True
+    return False
+def f_qpb(x,m,a,s):
+    if a<1387:
+        return True
+    if s<2729:
+        return True
+    return False
+def f_fvz(x,m,a,s):
+    if x>2841:
+        return False
+    if m<1023:
+        return False
+    return True
+def f_hzm(x,m,a,s):
+    if m>1472:
+        return False
+    if a>832:
+        return False
+    if s<1216:
+        return True
+    return False
+def f_ssz(x,m,a,s):
+    if x>3330:
+        return f_glv(x,m,a,s)
+    return False
+def f_nh(x,m,a,s):
+    if x<2958:
+        return f_lhn(x,m,a,s)
+    return f_htg(x,m,a,s)
+def f_dvb(x,m,a,s):
+    if a<814:
+        return f_frh(x,m,a,s)
+    if x<3522:
+        return f_chm(x,m,a,s)
+    return f_gfb(x,m,a,s)
+def f_xjg(x,m,a,s):
+    if a<2980:
+        return True
+    return False
+def f_cxt(x,m,a,s):
+    if s<2875:
+        return False
+    if x>2821:
+        return False
+    return False
+def f_ngt(x,m,a,s):
+    if s<1276:
+        return f_hj(x,m,a,s)
+    if s>1582:
+        return f_llm(x,m,a,s)
+    if m<1387:
+        return f_nxp(x,m,a,s)
+    return f_tnn(x,m,a,s)
+def f_lgr(x,m,a,s):
+    if x>1156:
+        return False
+    if a<2652:
+        return True
+    if a>2752:
+        return False
+    return True
+def f_gls(x,m,a,s):
+    if s<1517:
+        return f_vdr(x,m,a,s)
+    if s>3140:
+        return f_cr(x,m,a,s)
+    return False
+def f_dkt(x,m,a,s):
+    if a<3070:
+        return True
+    return False
+def f_sqp(x,m,a,s):
+    if x>3128:
+        return True
+    if a>3717:
+        return True
+    return True
+def f_trm(x,m,a,s):
+    if x<3807:
+        return True
+    if x>3932:
+        return False
+    if s>2867:
+        return False
+    return True
+def f_fxv(x,m,a,s):
+    if x<3060:
+        return True
+    if m<3872:
+        return False
+    if m<3957:
+        return False
+    return False
+def f_sc(x,m,a,s):
+    if m>2545:
+        return f_crq(x,m,a,s)
+    return f_mkl(x,m,a,s)
+def f_tf(x,m,a,s):
+    if m>2267:
+        return f_nhb(x,m,a,s)
+    if s<1269:
+        return f_rdk(x,m,a,s)
+    if a<2660:
+        return f_xmg(x,m,a,s)
+    return f_hd(x,m,a,s)
+def f_bmk(x,m,a,s):
+    if m<2909:
+        return False
+    return False
+def f_ff(x,m,a,s):
+    if x<166:
+        return False
+    if m>1657:
+        return False
+    if x<203:
+        return True
+    return True
+def f_ddg(x,m,a,s):
+    if s<3171:
+        return f_vkz(x,m,a,s)
+    if m<2032:
+        return f_hnj(x,m,a,s)
+    return f_sgv(x,m,a,s)
+def f_kvk(x,m,a,s):
+    if a<730:
+        return f_qb(x,m,a,s)
+    if s>2582:
+        return True
+    if s<1642:
+        return True
+    return False
+def f_vdr(x,m,a,s):
+    if a>732:
+        return False
+    return True
+def f_zbc(x,m,a,s):
+    if s>3491:
+        return True
+    if s>3354:
+        return False
+    return True
+def f_mq(x,m,a,s):
+    if m>879:
+        return True
+    if s>3182:
+        return f_kz(x,m,a,s)
+    return False
+def f_kh(x,m,a,s):
+    if x>3303:
+        return False
+    return False
+def f_sn(x,m,a,s):
+    if a<3085:
+        return False
+    if x<3638:
+        return False
+    if a<3223:
+        return False
+    return False
+def f_fx(x,m,a,s):
+    if s<3365:
+        return True
+    if s<3768:
+        return True
+    if x<2290:
+        return True
+    return True
+def f_zl(x,m,a,s):
+    if m<1180:
+        return True
+    return True
+def f_srj(x,m,a,s):
+    if s<2766:
+        return False
+    return False
+def f_sjz(x,m,a,s):
+    if a>2925:
+        return False
+    if x<904:
+        return True
+    if s>2888:
+        return f_pcb(x,m,a,s)
+    return f_bdj(x,m,a,s)
+def f_fq(x,m,a,s):
+    if m>3351:
+        return f_nh(x,m,a,s)
+    if s<964:
+        return f_hjh(x,m,a,s)
+    if s>1387:
+        return f_gtg(x,m,a,s)
+    return f_hz(x,m,a,s)
+def f_crb(x,m,a,s):
+    if m<1900:
+        return True
+    if s<970:
+        return False
+    if a<3511:
+        return False
+    return True
+def f_zx(x,m,a,s):
+    if m<1529:
+        return f_cn(x,m,a,s)
+    return f_mr(x,m,a,s)
+def f_fz(x,m,a,s):
+    if m>853:
+        return True
+    return True
+def f_cl(x,m,a,s):
+    if m<3570:
+        return f_nf(x,m,a,s)
+    if s>3104:
+        return f_jn(x,m,a,s)
+    return True
+def f_xsj(x,m,a,s):
+    if a>1327:
+        return False
+    return False
+def f_gz(x,m,a,s):
+    if s>2087:
+        return f_xt(x,m,a,s)
+    if a>2786:
+        return f_phh(x,m,a,s)
+    return f_jxq(x,m,a,s)
+def f_sr(x,m,a,s):
+    if a<686:
+        return f_nsx(x,m,a,s)
+    if s>2475:
+        return f_dv(x,m,a,s)
+    return f_rc(x,m,a,s)
+def f_gv(x,m,a,s):
+    if m<1324:
+        return False
+    return False
+def f_rnf(x,m,a,s):
+    if x<360:
+        return False
+    return f_vg(x,m,a,s)
+def f_ljq(x,m,a,s):
+    if a>2095:
+        return False
+    if a<1982:
+        return True
+    if a>2041:
+        return True
+    return True
+def f_sq(x,m,a,s):
+    if a<2885:
+        return False
+    return True
+def f_rlp(x,m,a,s):
+    if a>3714:
+        return f_mxn(x,m,a,s)
+    return f_rq(x,m,a,s)
+def f_hfd(x,m,a,s):
+    if s>3346:
+        return f_nj(x,m,a,s)
+    return False
+def f_nd(x,m,a,s):
+    if a<920:
+        return True
+    return True
+def f_hnj(x,m,a,s):
+    if a<2808:
+        return True
+    if x>2971:
+        return False
+    if s<3552:
+        return True
+    return True
+def f_jlm(x,m,a,s):
+    if m<3824:
+        return True
+    return False
+def f_xck(x,m,a,s):
+    if s>2449:
+        return f_jc(x,m,a,s)
+    if s>1262:
+        return f_jgl(x,m,a,s)
+    if s>736:
+        return f_qbl(x,m,a,s)
+    return f_znr(x,m,a,s)
+def f_jjn(x,m,a,s):
+    if m>2086:
+        return f_lt(x,m,a,s)
+    return f_krr(x,m,a,s)
+def f_jp(x,m,a,s):
+    if a<2407:
+        return f_bkh(x,m,a,s)
+    return f_gkj(x,m,a,s)
+def f_szf(x,m,a,s):
+    if m<3345:
+        return f_lfj(x,m,a,s)
+    if a>3306:
+        return f_rlp(x,m,a,s)
+    if a>2761:
+        return f_zrq(x,m,a,s)
+    return f_rfr(x,m,a,s)
+def f_qvt(x,m,a,s):
+    if m>2876:
+        return False
+    if x>908:
+        return False
+    if x>766:
+        return True
+    return False
+def f_pfn(x,m,a,s):
+    if s<3150:
+        return True
+    if m<268:
+        return False
+    if m<465:
+        return True
+    return False
+def f_kq(x,m,a,s):
+    if s<3578:
+        return True
+    return True
+def f_ld(x,m,a,s):
+    if m>632:
+        return f_rb(x,m,a,s)
+    return f_jq(x,m,a,s)
+def f_fg(x,m,a,s):
+    if a<1947:
+        return f_gd(x,m,a,s)
+    if x<2011:
+        return False
+    return True
+def f_pcb(x,m,a,s):
+    if s>3005:
+        return False
+    if m>2426:
+        return False
+    return True
+def f_mqv(x,m,a,s):
+    if s<2651:
+        return True
+    return True
+def f_zp(x,m,a,s):
+    if m<3217:
+        return False
+    return True
+def f_bpr(x,m,a,s):
+    if a<3504:
+        return True
+    if s<2171:
+        return True
+    return True
+def f_nks(x,m,a,s):
+    if s<2655:
+        return f_nx(x,m,a,s)
+    if x>2777:
+        return f_sl(x,m,a,s)
+    return f_jzt(x,m,a,s)
+def f_zxr(x,m,a,s):
+    if x>3230:
+        return f_lvt(x,m,a,s)
+    return True
+def f_lzx(x,m,a,s):
+    if x<2988:
+        return False
+    if x<3006:
+        return f_pb(x,m,a,s)
+    return f_mqv(x,m,a,s)
+def f_hqz(x,m,a,s):
+    if m<910:
+        return f_sqp(x,m,a,s)
+    if a>3760:
+        return False
+    if a<3608:
+        return False
+    return f_klp(x,m,a,s)
+def f_zrq(x,m,a,s):
+    if s<1965:
+        return f_xlf(x,m,a,s)
+    return f_hgj(x,m,a,s)
+def f_gff(x,m,a,s):
+    if a>3296:
+        return True
+    if m>3091:
+        return True
+    if x>3604:
+        return False
+    return f_lzz(x,m,a,s)
+def f_sp(x,m,a,s):
+    if s<3082:
+        return f_dgp(x,m,a,s)
+    if s>3562:
+        return False
+    return False
+def f_vck(x,m,a,s):
+    if a>3564:
+        return False
+    if s>1343:
+        return True
+    return False
+def f_tc(x,m,a,s):
+    if x<2801:
+        return True
+    return False
+def f_cnn(x,m,a,s):
+    if m>836:
+        return f_ggb(x,m,a,s)
+    if a<2366:
+        return f_srz(x,m,a,s)
+    return f_kxz(x,m,a,s)
+def f_vm(x,m,a,s):
+    if a<3067:
+        return f_ffl(x,m,a,s)
+    if m>1054:
+        return False
+    return False
+def f_klp(x,m,a,s):
+    if m<1643:
+        return True
+    if s>3100:
+        return True
+    return True
+def f_zs(x,m,a,s):
+    if s<2623:
+        return f_prv(x,m,a,s)
+    return False
+def f_xsq(x,m,a,s):
+    if a<3078:
+        return True
+    if x>3368:
+        return True
+    return True
+def f_ggb(x,m,a,s):
+    if x<3799:
+        return f_ndv(x,m,a,s)
+    if a<1843:
+        return f_lcv(x,m,a,s)
+    if a<2735:
+        return f_gv(x,m,a,s)
+    return f_fth(x,m,a,s)
+def f_smq(x,m,a,s):
+    if m>1630:
+        return True
+    if a>3389:
+        return False
+    if m<889:
+        return True
+    return True
+def f_jlf(x,m,a,s):
+    if s<2601:
+        return f_qq(x,m,a,s)
+    return True
+def f_mkl(x,m,a,s):
+    if s<1824:
+        return f_xcv(x,m,a,s)
+    if a<1755:
+        return f_zx(x,m,a,s)
+    if x>2924:
+        return f_xh(x,m,a,s)
+    return f_lg(x,m,a,s)
+def f_jkn(x,m,a,s):
+    if a>1538:
+        return f_dqd(x,m,a,s)
+    if s<2181:
+        return f_dvb(x,m,a,s)
+    return f_lq(x,m,a,s)
+def f_frh(x,m,a,s):
+    if a<451:
+        return f_hv(x,m,a,s)
+    if x<3680:
+        return f_svr(x,m,a,s)
+    if m<2584:
+        return f_zk(x,m,a,s)
+    return False
+def f_lpc(x,m,a,s):
+    if a<2220:
+        return f_nvs(x,m,a,s)
+    if x>2723:
+        return f_qlh(x,m,a,s)
+    return f_nvq(x,m,a,s)
+def f_xpr(x,m,a,s):
+    if s<2224:
+        return True
+    return False
+def f_hbz(x,m,a,s):
+    if s>742:
+        return True
+    if m>2908:
+        return True
+    if s>407:
+        return True
+    return True
+def f_ghb(x,m,a,s):
+    if m<735:
+        return f_zf(x,m,a,s)
+    if m>1232:
+        return f_bq(x,m,a,s)
+    return f_sr(x,m,a,s)
+def f_qr(x,m,a,s):
+    if a<1056:
+        return f_kf(x,m,a,s)
+    if x>2726:
+        return False
+    if x>2659:
+        return True
+    return f_xsj(x,m,a,s)
+def f_ljg(x,m,a,s):
+    if a>3202:
+        return False
+    return False
+def f_lt(x,m,a,s):
+    if a>3783:
+        return False
+    if m<2991:
+        return False
+    return f_znx(x,m,a,s)
+def f_lf(x,m,a,s):
+    if x<2866:
+        return True
+    return False
+def f_nkc(x,m,a,s):
+    if a<2896:
+        return True
+    return True
+def f_jjj(x,m,a,s):
+    if a>1170:
+        return True
+    return True
+def f_vcp(x,m,a,s):
+    if a<3476:
+        return True
+    if x<1527:
+        return False
+    return True
+def f_cs(x,m,a,s):
+    if x<2769:
+        return True
+    return True
+def f_xk(x,m,a,s):
+    if m<1429:
+        return f_xj(x,m,a,s)
+    if x<3451:
+        return f_dqf(x,m,a,s)
+    if a<864:
+        return False
+    return f_fhd(x,m,a,s)
+def f_csq(x,m,a,s):
+    if m>133:
+        return False
+    if s>3174:
+        return False
+    if s<2646:
+        return False
+    return True
+def f_cjf(x,m,a,s):
+    if s<2500:
+        return True
+    if x>2966:
+        return False
+    if s<2537:
+        return False
+    return False
+def f_pch(x,m,a,s):
+    if a>3402:
+        return False
+    if x<3970:
+        return False
+    return True
+def f_dzb(x,m,a,s):
+    if m>1629:
+        return f_lch(x,m,a,s)
+    if x>3070:
+        return True
+    if a>1344:
+        return False
+    return f_vcg(x,m,a,s)
+def f_pkt(x,m,a,s):
+    if m<1118:
+        return True
+    if m>1245:
+        return f_kqz(x,m,a,s)
+    if s<2841:
+        return True
+    return f_pcp(x,m,a,s)
+def f_qtr(x,m,a,s):
+    if x>1871:
+        return f_nd(x,m,a,s)
+    if x>1665:
+        return True
+    if m<1246:
+        return False
+    return True
+def f_nc(x,m,a,s):
+    if m<1646:
+        return f_mrb(x,m,a,s)
+    if s<1348:
+        return f_gr(x,m,a,s)
+    if a>2803:
+        return f_np(x,m,a,s)
+    return f_tfx(x,m,a,s)
+def f_xcq(x,m,a,s):
+    if m<3438:
+        return True
+    return True
+def f_lq(x,m,a,s):
+    if x>3504:
+        return f_pt(x,m,a,s)
+    return f_zq(x,m,a,s)
+def f_ljs(x,m,a,s):
+    if a<2509:
+        return False
+    return False
+def f_kxz(x,m,a,s):
+    if a<3295:
+        return f_hcv(x,m,a,s)
+    if m<456:
+        return f_ts(x,m,a,s)
+    if m<593:
+        return f_vck(x,m,a,s)
+    return f_vp(x,m,a,s)
+def f_ccd(x,m,a,s):
+    if a>3532:
+        return f_jvl(x,m,a,s)
+    if m>2141:
+        return f_xdb(x,m,a,s)
+    return f_csf(x,m,a,s)
+def f_zzk(x,m,a,s):
+    if a>2448:
+        return f_ffg(x,m,a,s)
+    return f_rnf(x,m,a,s)
+def f_ksf(x,m,a,s):
+    if m<252:
+        return f_jqx(x,m,a,s)
+    if a>2045:
+        return f_nks(x,m,a,s)
+    if s>3221:
+        return f_xgp(x,m,a,s)
+    return f_msk(x,m,a,s)
+def f_tb(x,m,a,s):
+    if a<884:
+        return False
+    if s>3121:
+        return False
+    if x>868:
+        return True
+    return False
+def f_mpt(x,m,a,s):
+    if a<1121:
+        return False
+    if x>2693:
+        return True
+    return False
+def f_xxp(x,m,a,s):
+    if m<2396:
+        return True
+    if m>2746:
+        return False
+    if a>3081:
+        return True
+    return False
+def f_zf(x,m,a,s):
+    if s<2583:
+        return f_ssz(x,m,a,s)
+    if a>1125:
+        return f_mx(x,m,a,s)
+    return f_dq(x,m,a,s)
+def f_ltt(x,m,a,s):
+    if m<1914:
+        return True
+    return True
+def f_jk(x,m,a,s):
+    if s>2586:
+        return True
+    return False
+def f_vhh(x,m,a,s):
+    if x<3465:
+        return True
+    if a>3842:
+        return True
+    return True
+def f_zcc(x,m,a,s):
+    if s>3452:
+        return False
+    if a>1752:
+        return False
+    return True
+def f_mp(x,m,a,s):
+    if a>2083:
+        return True
+    return False
+def f_xq(x,m,a,s):
+    if s>435:
+        return f_rr(x,m,a,s)
+    return False
+def f_xh(x,m,a,s):
+    if x>3037:
+        return f_spp(x,m,a,s)
+    if m>1334:
+        return f_ddg(x,m,a,s)
+    if m>463:
+        return f_jtg(x,m,a,s)
+    return f_ft(x,m,a,s)
+def f_jzr(x,m,a,s):
+    if m>2421:
+        return f_xs(x,m,a,s)
+    return f_ml(x,m,a,s)
+def f_gr(x,m,a,s):
+    if a<2740:
+        return f_qvt(x,m,a,s)
+    if x>1030:
+        return False
+    return f_sx(x,m,a,s)
+def f_jzt(x,m,a,s):
+    if a<2287:
+        return False
+    if a>2424:
+        return False
+    return False
+def f_pqv(x,m,a,s):
+    if m<562:
+        return False
+    if a>514:
+        return False
+    return False
+def f_tk(x,m,a,s):
+    if x<2906:
+        return f_zm(x,m,a,s)
+    return True
+def f_tv(x,m,a,s):
+    if a<2090:
+        return f_hvc(x,m,a,s)
+    if x>660:
+        return f_rbg(x,m,a,s)
+    return f_bpk(x,m,a,s)
+def f_ll(x,m,a,s):
+    if a>2966:
+        return False
+    if x<3296:
+        return False
+    if x>3419:
+        return f_ddv(x,m,a,s)
+    return f_tcq(x,m,a,s)
+def f_ssd(x,m,a,s):
+    if s>1230:
+        return f_ch(x,m,a,s)
+    if m>3227:
+        return f_vb(x,m,a,s)
+    if a<3339:
+        return f_xr(x,m,a,s)
+    return f_hbz(x,m,a,s)
+def f_mck(x,m,a,s):
+    if m<997:
+        return f_mtk(x,m,a,s)
+    return f_ssg(x,m,a,s)
+def f_mbm(x,m,a,s):
+    if s<3035:
+        return True
+    if a<2993:
+        return False
+    if s>3381:
+        return False
+    return True
+def f_knc(x,m,a,s):
+    if a<717:
+        return True
+    return True
+def f_nj(x,m,a,s):
+    if s>3662:
+        return False
+    return False
+def f_kt(x,m,a,s):
+    if m<1393:
+        return False
+    return False
+def f_zm(x,m,a,s):
+    if m>3077:
+        return False
+    if s<1102:
+        return False
+    return False
+def f_xp(x,m,a,s):
+    if m<555:
+        return False
+    if m<686:
+        return False
+    return False
+def f_kcz(x,m,a,s):
+    if m<958:
+        return True
+    if s>3307:
+        return True
+    return False
+def f_lch(x,m,a,s):
+    if a<2420:
+        return True
+    return True
+def f_lsg(x,m,a,s):
+    if m>841:
+        return True
+    if a>2937:
+        return False
+    return True
+def f_lgg(x,m,a,s):
+    if s<3631:
+        return False
+    return f_zkg(x,m,a,s)
+def f_dt(x,m,a,s):
+    if x>2282:
+        return False
+    if s>1907:
+        return False
+    return False
+def f_nxz(x,m,a,s):
+    if s<2740:
+        return False
+    if x<2788:
+        return False
+    if s<3169:
+        return False
+    return False
+def f_ml(x,m,a,s):
+    if x>3641:
+        return False
+    return True
+def f_fk(x,m,a,s):
+    if a<3560:
+        return False
+    return False
+def f_bkh(x,m,a,s):
+    if m>3566:
+        return f_gks(x,m,a,s)
+    return False
+def f_vd(x,m,a,s):
+    if s<821:
+        return False
+    return False
+def f_zkv(x,m,a,s):
+    if m>2074:
+        return f_vf(x,m,a,s)
+    return f_gz(x,m,a,s)
+def f_txl(x,m,a,s):
+    if x>2986:
+        return False
+    return True
+def f_xj(x,m,a,s):
+    if m>1331:
+        return True
+    if a>607:
+        return False
+    return True
+def f_kf(x,m,a,s):
+    if a<649:
+        return False
+    return False
+def f_zk(x,m,a,s):
+    if s<899:
+        return False
+    if m>2066:
+        return False
+    return False
+def f_lvs(x,m,a,s):
+    if a<705:
+        return False
+    if a<872:
+        return True
+    if s>3101:
+        return False
+    return True
+def f_bpk(x,m,a,s):
+    if a<2727:
+        return f_zzk(x,m,a,s)
+    if s>1544:
+        return f_vc(x,m,a,s)
+    if a>3548:
+        return f_jjn(x,m,a,s)
+    return f_zbt(x,m,a,s)
+def f_znm(x,m,a,s):
+    if s<2638:
+        return True
+    if m>1174:
+        return f_rs(x,m,a,s)
+    return False
+def f_fb(x,m,a,s):
+    if x>2811:
+        return f_xrx(x,m,a,s)
+    if m<1973:
+        return False
+    return False
+def f_xl(x,m,a,s):
+    if a<3521:
+        return True
+    return False
+def f_lrt(x,m,a,s):
+    if a<3626:
+        return f_hc(x,m,a,s)
+    return f_tj(x,m,a,s)
+def f_rfr(x,m,a,s):
+    if a<2578:
+        return f_xc(x,m,a,s)
+    if x>3692:
+        return f_gxf(x,m,a,s)
+    return f_nm(x,m,a,s)
+def f_cv(x,m,a,s):
+    if a<3435:
+        return False
+    if s<2464:
+        return True
+    if a>3715:
+        return True
+    return False
+def f_dm(x,m,a,s):
+    if m>2201:
+        return False
+    return False
+def f_nhb(x,m,a,s):
+    if s<1451:
+        return f_fg(x,m,a,s)
+    return f_bj(x,m,a,s)
+def f_in(x,m,a,s):
+    if x<2577:
+        return f_xx(x,m,a,s)
+    if x>3180:
+        return f_gj(x,m,a,s)
+    return f_sc(x,m,a,s)
+def f_rhg(x,m,a,s):
+    if x<1974:
+        return False
+    if x>2182:
+        return True
+    if m>829:
+        return True
+    return True
+def f_lg(x,m,a,s):
+    if a>2525:
+        return f_hb(x,m,a,s)
+    if m>1244:
+        return f_lpc(x,m,a,s)
+    if m<658:
+        return f_ksf(x,m,a,s)
+    return f_nz(x,m,a,s)
+def f_jd(x,m,a,s):
+    if m>2179:
+        return f_zp(x,m,a,s)
+    if m<1381:
+        return f_spr(x,m,a,s)
+    if m>1732:
+        return False
+    return False
+def f_txp(x,m,a,s):
+    if m>1927:
+        return f_cv(x,m,a,s)
+    return f_kb(x,m,a,s)
+def f_jr(x,m,a,s):
+    if a<1781:
+        return True
+    if a>1902:
+        return False
+    return True
+def f_hd(x,m,a,s):
+    if x>1750:
+        return f_kt(x,m,a,s)
+    return f_rgg(x,m,a,s)
+def f_gxf(x,m,a,s):
+    if m<3755:
+        return f_nk(x,m,a,s)
+    if a<2695:
+        return True
+    return False
+def f_frz(x,m,a,s):
+    if x>1759:
+        return True
+    if s<3233:
+        return True
+    if m<654:
+        return False
+    return False
+def f_dz(x,m,a,s):
+    if x<1223:
+        return True
+    if m<2655:
+        return False
+    if a>644:
+        return True
+    return True
+def f_htg(x,m,a,s):
+    if m<3741:
+        return True
+    if m<3868:
+        return False
+    if x>3045:
+        return True
+    return False
+def f_gks(x,m,a,s):
+    if x>3093:
+        return True
+    if m<3813:
+        return True
+    if s<3256:
+        return False
+    return True
+def f_lzz(x,m,a,s):
+    if m<2999:
+        return True
+    if a<2878:
+        return False
+    if a>3038:
+        return True
+    return False
+def f_bpf(x,m,a,s):
+    if s<3163:
+        return False
+    return True
+def f_zgd(x,m,a,s):
+    if a<1196:
+        return False
+    if a>1317:
+        return False
+    return True
+def f_vg(x,m,a,s):
+    if m<2455:
+        return True
+    if a>2304:
+        return True
+    if x<541:
+        return True
+    return False
+def f_bcf(x,m,a,s):
+    if m>348:
+        return True
+    if m<191:
+        return True
+    return False
+def f_pxv(x,m,a,s):
+    if x<3389:
+        return True
+    if m>146:
+        return True
+    if m>67:
+        return False
+    return True
+def f_pg(x,m,a,s):
+    if a<2806:
+        return False
+    if x<3213:
+        return True
+    if s<272:
+        return False
+    return False
+def f_sh(x,m,a,s):
+    if m<3146:
+        return True
+    if s>2832:
+        return False
+    if x>1900:
+        return False
+    return False
+def f_nz(x,m,a,s):
+    if x>2724:
+        return f_tjh(x,m,a,s)
+    if s>3242:
+        return f_lgg(x,m,a,s)
+    return f_jhc(x,m,a,s)
+def f_fqt(x,m,a,s):
+    if a>3693:
+        return f_srj(x,m,a,s)
+    return f_mnv(x,m,a,s)
+def f_xpf(x,m,a,s):
+    if m<2849:
+        return f_kq(x,m,a,s)
+    if a>1701:
+        return False
+    return f_qtq(x,m,a,s)
+def f_nqx(x,m,a,s):
+    if m>160:
+        return f_xpr(x,m,a,s)
+    return f_qv(x,m,a,s)
+def f_xc(x,m,a,s):
+    if a<2525:
+        return f_ljs(x,m,a,s)
+    if s>2083:
+        return f_klx(x,m,a,s)
+    if s<1150:
+        return True
+    return f_hqg(x,m,a,s)
+def f_hc(x,m,a,s):
+    if m<2344:
+        return f_crb(x,m,a,s)
+    return True
+def f_zj(x,m,a,s):
+    if m<717:
+        return True
+    if s>1865:
+        return True
+    return True
+def f_tp(x,m,a,s):
+    if a<2510:
+        return False
+    return False
+def f_zxn(x,m,a,s):
+    if x>912:
+        return True
+    if a<3357:
+        return True
+    return False
+def f_sgv(x,m,a,s):
+    if x<2978:
+        return f_gqv(x,m,a,s)
+    if a<3171:
+        return f_mh(x,m,a,s)
+    return True
+def f_phh(x,m,a,s):
+    if s<742:
+        return f_lmb(x,m,a,s)
+    if s<1213:
+        return f_sn(x,m,a,s)
+    if a>3030:
+        return f_ltt(x,m,a,s)
+    return True
+def f_ndv(x,m,a,s):
+    if a<2330:
+        return f_tg(x,m,a,s)
+    return f_gfc(x,m,a,s)
+def f_csf(x,m,a,s):
+    if x<1891:
+        return f_jj(x,m,a,s)
+    if a>3261:
+        return f_nhd(x,m,a,s)
+    return f_npf(x,m,a,s)
+def f_dbb(x,m,a,s):
+    if s<481:
+        return False
+    if s>844:
+        return True
+    return False
+def f_rs(x,m,a,s):
+    if x>3107:
+        return False
+    if m>1855:
+        return True
+    if a<2229:
+        return False
+    return True
+def f_gzd(x,m,a,s):
+    if s<1744:
+        return True
+    if a<633:
+        return False
+    return True
+def f_qc(x,m,a,s):
+    if m<2912:
+        return f_tb(x,m,a,s)
+    if a>854:
+        return f_kxs(x,m,a,s)
+    return False
+def f_xs(x,m,a,s):
+    if a<2120:
+        return False
+    return False
+def f_sl(x,m,a,s):
+    if s<3478:
+        return True
+    return False
+def f_dn(x,m,a,s):
+    if a>895:
+        return f_lzj(x,m,a,s)
+    return f_tk(x,m,a,s)
+def f_cb(x,m,a,s):
+    if m<858:
+        return False
+    if x>825:
+        return False
+    if x<677:
+        return True
+    return True
+def f_zss(x,m,a,s):
+    if m<3545:
+        return False
+    if a>3827:
+        return False
+    if x<3685:
+        return False
+    return False
+def f_cn(x,m,a,s):
+    if x<2843:
+        return f_qr(x,m,a,s)
+    if a<1074:
+        return f_kg(x,m,a,s)
+    return f_zfd(x,m,a,s)
+def f_xrx(x,m,a,s):
+    if s<2168:
+        return False
+    if a>611:
+        return True
+    return False
+def f_gq(x,m,a,s):
+    if x>3302:
+        return f_jl(x,m,a,s)
+    if x>3237:
+        return False
+    return f_pg(x,m,a,s)
+def f_zkg(x,m,a,s):
+    if a<2049:
+        return False
+    if m<1016:
+        return False
+    if s<3848:
+        return False
+    return False
+def f_vbb(x,m,a,s):
+    if x<3464:
+        return False
+    return False
+def f_lgq(x,m,a,s):
+    if x>3381:
+        return False
+    if s<1089:
+        return False
+    return False
+def f_cf(x,m,a,s):
+    if m<863:
+        return f_xp(x,m,a,s)
+    return False
+def f_bjl(x,m,a,s):
+    if m>1676:
+        return f_xg(x,m,a,s)
+    if s>3264:
+        return f_cf(x,m,a,s)
+    if s<2873:
+        return f_gl(x,m,a,s)
+    return f_cg(x,m,a,s)
+def f_jl(x,m,a,s):
+    if a>2645:
+        return False
+    if a<2272:
+        return True
+    return False
+def f_gkj(x,m,a,s):
+    if x>3097:
+        return f_lh(x,m,a,s)
+    if m>3723:
+        return f_fxv(x,m,a,s)
+    return False
+def f_hgx(x,m,a,s):
+    if a<2317:
+        return f_zh(x,m,a,s)
+    return f_bz(x,m,a,s)
+def f_gl(x,m,a,s):
+    if m<669:
+        return False
+    return f_rm(x,m,a,s)
+def f_jc(x,m,a,s):
+    if a<940:
+        return False
+    return False
+def f_zc(x,m,a,s):
+    if s>3283:
+        return f_vn(x,m,a,s)
+    if s>2491:
+        return False
+    return f_dd(x,m,a,s)
+def f_mk(x,m,a,s):
+    if a>932:
+        return True
+    if s>2605:
+        return f_qft(x,m,a,s)
+    if s<2591:
+        return f_rrb(x,m,a,s)
+    return False
+def f_lm(x,m,a,s):
+    if a>3182:
+        return True
+    if m>807:
+        return False
+    return True
+def f_crq(x,m,a,s):
+    if s<1950:
+        return f_fpb(x,m,a,s)
+    return f_vzs(x,m,a,s)
+def f_ft(x,m,a,s):
+    if m<228:
+        return f_vs(x,m,a,s)
+    if m>362:
+        return f_txl(x,m,a,s)
+    return f_qhh(x,m,a,s)
+def f_qmn(x,m,a,s):
+    if x>3417:
+        return True
+    if s<724:
+        return True
+    if s<1577:
+        return False
+    return f_rmg(x,m,a,s)
+def f_ffb(x,m,a,s):
+    if s<3279:
+        return f_rlr(x,m,a,s)
+    return f_xpf(x,m,a,s)
+def f_zfd(x,m,a,s):
+    if m<612:
+        return True
+    if m>1076:
+        return False
+    return False
+def f_dtq(x,m,a,s):
+    if m<2745:
+        return False
+    return False
+def f_bzr(x,m,a,s):
+    if x>3390:
+        return f_bp(x,m,a,s)
+    return False
+def f_kr(x,m,a,s):
+    if x>3517:
+        return f_cnn(x,m,a,s)
+    if a<1807:
+        return f_ghb(x,m,a,s)
+    if s>2518:
+        return f_cj(x,m,a,s)
+    return f_ld(x,m,a,s)
+def f_gj(x,m,a,s):
+    if m<1613:
+        return f_kr(x,m,a,s)
+    return f_cm(x,m,a,s)
+def f_mt(x,m,a,s):
+    if x<3132:
+        return False
+    return f_dnh(x,m,a,s)
+def f_nvs(x,m,a,s):
+    if m>1916:
+        return True
+    return True
+def f_qrt(x,m,a,s):
+    if x>3293:
+        return False
+    if m>244:
+        return False
+    if a<2764:
+        return False
+    return False
+def f_tjh(x,m,a,s):
+    if s<3024:
+        return False
+    if s<3504:
+        return f_kcz(x,m,a,s)
+    if a>2172:
+        return f_tc(x,m,a,s)
+    return f_fvz(x,m,a,s)
+def f_xcv(x,m,a,s):
+    if s<853:
+        return f_mck(x,m,a,s)
+    if x>2933:
+        return f_bvq(x,m,a,s)
+    if a>1527:
+        return f_ngt(x,m,a,s)
+    return f_sz(x,m,a,s)
+def f_lgs(x,m,a,s):
+    if m<3122:
+        return False
+    return False
+def f_zg(x,m,a,s):
+    if s<3119:
+        return f_jr(x,m,a,s)
+    return f_zcc(x,m,a,s)
+def f_znx(x,m,a,s):
+    if s<821:
+        return False
+    if x>407:
+        return False
+    return True
+def f_bp(x,m,a,s):
+    if s<1466:
+        return False
+    if a<2822:
+        return False
+    if m<2517:
+        return False
+    return True
+def f_dd(x,m,a,s):
+    if a<2900:
+        return True
+    return False
+def f_rbg(x,m,a,s):
+    if s<2594:
+        return f_nc(x,m,a,s)
+    return f_hh(x,m,a,s)
+def f_kc(x,m,a,s):
+    if x>228:
+        return False
+    return False
+def f_nts(x,m,a,s):
+    if x<2171:
+        return f_nl(x,m,a,s)
+    return f_ds(x,m,a,s)
+def f_sjh(x,m,a,s):
+    if m>262:
+        return False
+    if x<3320:
+        return f_kh(x,m,a,s)
+    return True
+def f_fv(x,m,a,s):
+    if x<974:
+        return True
+    if a>1329:
+        return f_vd(x,m,a,s)
+    if x>1154:
+        return f_dz(x,m,a,s)
+    return f_dtq(x,m,a,s)
+def f_np(x,m,a,s):
+    if m>2901:
+        return f_zxn(x,m,a,s)
+    if s<1894:
+        return True
+    if s<2229:
+        return True
+    return f_xn(x,m,a,s)
+def f_mr(x,m,a,s):
+    if s>2671:
+        return f_lfb(x,m,a,s)
+    if s<2379:
+        return f_fb(x,m,a,s)
+    if s>2568:
+        return f_mk(x,m,a,s)
+    return f_tz(x,m,a,s)
+def f_hfv(x,m,a,s):
+    if a<1246:
+        return f_gls(x,m,a,s)
+    if s<1496:
+        return f_jzz(x,m,a,s)
+    return f_zg(x,m,a,s)
+def f_zmx(x,m,a,s):
+    if a<3168:
+        return f_ff(x,m,a,s)
+    return True
+def f_vkz(x,m,a,s):
+    if s>2647:
+        return True
+    if s>2206:
+        return False
+    return False
+def f_fth(x,m,a,s):
+    if x<3911:
+        return f_bjg(x,m,a,s)
+    return f_pch(x,m,a,s)
+def f_jn(x,m,a,s):
+    if m>3853:
+        return False
+    if x>3385:
+        return False
+    return False
+def f_sd(x,m,a,s):
+    if x>3775:
+        return False
+    if s>2449:
+        return f_cz(x,m,a,s)
+    if a<405:
+        return True
+    return f_rnz(x,m,a,s)
+def f_qv(x,m,a,s):
+    if a<1021:
+        return False
+    if s<2252:
+        return False
+    return False
+def f_ffl(x,m,a,s):
+    if m>1027:
+        return False
+    return False
+def f_zzs(x,m,a,s):
+    if s>1866:
+        return False
+    if m<3209:
+        return True
+    if m<3609:
+        return True
+    return True
+def f_hsf(x,m,a,s):
+    if s>1476:
+        return False
+    return False
+def f_thg(x,m,a,s):
+    if s>3652:
+        return False
+    if s<3508:
+        return False
+    if x>1068:
+        return f_hr(x,m,a,s)
+    return f_mzk(x,m,a,s)
+def f_kg(x,m,a,s):
+    if x>2965:
+        return f_lvs(x,m,a,s)
+    if x>2887:
+        return True
+    if x<2860:
+        return f_bpf(x,m,a,s)
+    return f_pqv(x,m,a,s)
+def f_nx(x,m,a,s):
+    if x<2779:
+        return True
+    if s>2164:
+        return False
+    if m>438:
+        return False
+    return False
+def f_md(x,m,a,s):
+    if m>701:
+        return False
+    if s>3344:
+        return f_cth(x,m,a,s)
+    if a>2599:
+        return f_qrt(x,m,a,s)
+    return f_bcf(x,m,a,s)
+def f_xx(x,m,a,s):
+    if x>1273:
+        return f_qm(x,m,a,s)
+    return f_tv(x,m,a,s)
+def f_gtv(x,m,a,s):
+    if a>3261:
+        return False
+    return True
+def f_nq(x,m,a,s):
+    if s>2860:
+        return f_hp(x,m,a,s)
+    return False
+def f_tz(x,m,a,s):
+    if a>689:
+        return f_jjj(x,m,a,s)
+    if a<372:
+        return True
+    return f_cjf(x,m,a,s)
+def f_srz(x,m,a,s):
+    if m<331:
+        return f_nqx(x,m,a,s)
+    if a<1166:
+        return f_sd(x,m,a,s)
+    return f_bx(x,m,a,s)
+def f_nf(x,m,a,s):
+    if a<2077:
+        return False
+    if x>3322:
+        return True
+    return False
+def f_mh(x,m,a,s):
+    if x<3013:
+        return True
+    if m<2292:
+        return False
+    if a>2375:
+        return False
+    return False
+def f_qzt(x,m,a,s):
+    if s<938:
+        return True
+    if x<2719:
+        return False
+    if m<1478:
+        return False
+    return False
+def f_kb(x,m,a,s):
+    if a>3541:
+        return True
+    return True
+def f_lvt(x,m,a,s):
+    if a<2737:
+        return False
+    if x>3246:
+        return True
+    return False
+def f_qlh(x,m,a,s):
+    if m>2051:
+        return f_vll(x,m,a,s)
+    return False
+def f_vn(x,m,a,s):
+    if a<2909:
+        return False
+    return True
+def f_rtm(x,m,a,s):
+    if a<1680:
+        return f_bfv(x,m,a,s)
+    return False
+def f_jzh(x,m,a,s):
+    if a<3240:
+        return False
+    if x>3271:
+        return False
+    if a<3499:
+        return True
+    return True
+def f_ssg(x,m,a,s):
+    if a>2380:
+        return f_lf(x,m,a,s)
+    if s>370:
+        return True
+    return True
+def f_glv(x,m,a,s):
+    if s<1131:
+        return True
+    return False
+def f_bkf(x,m,a,s):
+    if a<2591:
+        return False
+    if a>2676:
+        return False
+    if x<350:
+        return False
+    return False
+def f_xhx(x,m,a,s):
+    if x<855:
+        return False
+    if m<766:
+        return True
+    return True
+def f_bqg(x,m,a,s):
+    if x>3272:
+        return True
+    if x>3214:
+        return False
+    if a<3112:
+        return True
+    return True
+def f_bc(x,m,a,s):
+    if x<156:
+        return True
+    if a>934:
+        return False
+    if m<2168:
+        return False
+    return False
+def f_rl(x,m,a,s):
+    if m>3333:
+        return False
+    if a<2865:
+        return False
+    return False
+def f_cth(x,m,a,s):
+    if m<397:
+        return True
+    return True
+def f_rx(x,m,a,s):
+    if x>1610:
+        return True
+    if m>3500:
+        return True
+    if a>2000:
+        return False
+    return False
+def f_tj(x,m,a,s):
+    if s>979:
+        return f_rp(x,m,a,s)
+    return False
+def f_prm(x,m,a,s):
+    if x>3770:
+        return False
+    return False
+def f_fhd(x,m,a,s):
+    if m>1529:
+        return False
+    return False
+def f_rdq(x,m,a,s):
+    if m<3743:
+        return True
+    if m>3890:
+        return False
+    if m>3836:
+        return False
+    return True
+def f_svr(x,m,a,s):
+    if s<1277:
+        return True
+    return False
+def f_rxb(x,m,a,s):
+    if a<2065:
+        return True
+    if m<619:
+        return False
+    return False
+def f_jkm(x,m,a,s):
+    if a<2967:
+        return True
+    return False
+def f_npf(x,m,a,s):
+    if x<2238:
+        return False
+    return False
+def f_hgj(x,m,a,s):
+    if s>3122:
+        return True
+    if a<3097:
+        return f_jkm(x,m,a,s)
+    if x>3627:
+        return f_lv(x,m,a,s)
+    return True
+def f_mx(x,m,a,s):
+    if a>1554:
+        return f_pfn(x,m,a,s)
+    if m<437:
+        return f_pxv(x,m,a,s)
+    if x<3296:
+        return False
+    return True
+def f_tfx(x,m,a,s):
+    if x<992:
+        return True
+    if x<1093:
+        return f_pq(x,m,a,s)
+    if a>2544:
+        return f_lgr(x,m,a,s)
+    return True
+def f_pq(x,m,a,s):
+    if a>2392:
+        return True
+    return True
+def f_vcg(x,m,a,s):
+    if s>1038:
+        return False
+    if a<499:
+        return True
+    return False
+def f_bq(x,m,a,s):
+    if x>3320:
+        return f_xk(x,m,a,s)
+    return f_kvk(x,m,a,s)
+def f_mzk(x,m,a,s):
+    if s>3568:
+        return True
+    if x<853:
+        return False
+    return False
+def f_kbk(x,m,a,s):
+    if s<3343:
+        return True
+    return False
+def f_lhn(x,m,a,s):
+    if x>2868:
+        return False
+    if s<838:
+        return False
+    return False
+def f_cql(x,m,a,s):
+    if s<732:
+        return False
+    return True
+def f_nvq(x,m,a,s):
+    if x>2634:
+        return f_zht(x,m,a,s)
+    return True
+def f_hqg(x,m,a,s):
+    if a>2554:
+        return True
+    return False
+def f_rrb(x,m,a,s):
+    if m>2127:
+        return True
+    if x>2881:
+        return False
+    return True
+def f_gqt(x,m,a,s):
+    if s<2499:
+        return True
+    if s<2623:
+        return True
+    if a>3424:
+        return False
+    return False
+def f_csh(x,m,a,s):
+    if a>624:
+        return False
+    if s<1599:
+        return f_tt(x,m,a,s)
+    if m>1434:
+        return True
+    return False
+def f_pnk(x,m,a,s):
+    if m<2982:
+        return False
+    if m>3177:
+        return True
+    return False
+def f_xg(x,m,a,s):
+    if s<3449:
+        return f_sh(x,m,a,s)
+    if a<1459:
+        return False
+    if s>3790:
+        return True
+    return f_hq(x,m,a,s)
+def f_gd(x,m,a,s):
+    if a<763:
+        return False
+    if a>1542:
+        return True
+    return True
+def f_gtg(x,m,a,s):
+    if s>1721:
+        return f_pnk(x,m,a,s)
+    if s<1544:
+        return True
+    return f_fgr(x,m,a,s)
+def f_jcv(x,m,a,s):
+    if s>2830:
+        return True
+    if x>3291:
+        return False
+    return False
+def f_hrh(x,m,a,s):
+    if m>3490:
+        return f_jlm(x,m,a,s)
+    return f_mp(x,m,a,s)
+def f_bxn(x,m,a,s):
+    if s>3078:
+        return False
+    return True
+def f_xbb(x,m,a,s):
+    if m>3000:
+        return False
+    if m<2557:
+        return False
+    if a<3329:
+        return True
+    return True
+def f_jzn(x,m,a,s):
+    if s>2306:
+        return False
+    if x<2986:
+        return False
+    if a>2949:
+        return True
+    return True
+def f_cbz(x,m,a,s):
+    if m<2452:
+        return False
+    if m>2653:
+        return True
+    if m>2537:
+        return False
+    return True
+def f_zbt(x,m,a,s):
+    if x>273:
+        return f_ms(x,m,a,s)
+    if x>109:
+        return f_zmx(x,m,a,s)
+    return f_hpb(x,m,a,s)
+def f_ctj(x,m,a,s):
+    if m<1790:
+        return f_frz(x,m,a,s)
+    if x>2123:
+        return f_mbm(x,m,a,s)
+    return False
+def f_pcp(x,m,a,s):
+    if s<3380:
+        return True
+    if m>1195:
+        return True
+    if x>2990:
+        return True
+    return False
+def f_jhc(x,m,a,s):
+    if s<2482:
+        return f_jsx(x,m,a,s)
+    return False
+def f_cz(x,m,a,s):
+    if m>653:
+        return False
+    if x>3649:
+        return True
+    return True
+def f_bfv(x,m,a,s):
+    if s<548:
+        return True
+    if a>638:
+        return False
+    if a>396:
+        return True
+    return True
+def f_spr(x,m,a,s):
+    if a>3678:
+        return False
+    if x<1552:
+        return True
+    if x>1735:
+        return True
+    return True
+def f_vr(x,m,a,s):
+    if a>3020:
+        return False
+    return False
+def f_ms(x,m,a,s):
+    if m<2429:
+        return True
+    if a>3099:
+        return False
+    if x>425:
+        return f_nkc(x,m,a,s)
+    return f_rl(x,m,a,s)
+def f_tnn(x,m,a,s):
+    if a>3093:
+        return False
+    return True
+def f_qtq(x,m,a,s):
+    if a>912:
+        return False
+    if a>597:
+        return False
+    return False
+def f_jct(x,m,a,s):
+    if x>3362:
+        return False
+    if m>1030:
+        return True
+    if m<883:
+        return False
+    return False
+def f_bvq(x,m,a,s):
+    if s<1295:
+        return f_dzb(x,m,a,s)
+    return f_jtp(x,m,a,s)
+def f_lls(x,m,a,s):
+    if x>2726:
+        return True
+    if a<2507:
+        return False
+    if x<2648:
+        return True
+    return False
+def f_tn(x,m,a,s):
+    if x>951:
+        return True
+    return f_nrz(x,m,a,s)
+def f_cr(x,m,a,s):
+    if m<1004:
+        return False
+    if x<1025:
+        return False
+    return False
+def f_vll(x,m,a,s):
+    if m>2293:
+        return True
+    if m>2192:
+        return True
+    return True
+def f_dv(x,m,a,s):
+    if m<1039:
+        return f_jm(x,m,a,s)
+    return True
+def f_tt(x,m,a,s):
+    if m>862:
+        return True
+    return False
+def f_lcv(x,m,a,s):
+    if s>1479:
+        return True
+    if x<3886:
+        return f_zl(x,m,a,s)
+    if s<952:
+        return True
+    return f_rv(x,m,a,s)
+def f_gt(x,m,a,s):
+    if m<1480:
+        return False
+    return f_jfs(x,m,a,s)
+def f_gqv(x,m,a,s):
+    if s>3635:
+        return True
+    return True
+def f_kqz(x,m,a,s):
+    if s>3214:
+        return True
+    return True
+def f_sx(x,m,a,s):
+    if x>787:
+        return True
+    return False
+def f_tg(x,m,a,s):
+    if a>1450:
+        return False
+    if x>3694:
+        return True
+    if s>1757:
+        return False
+    return True
+def f_hvc(x,m,a,s):
+    if x<578:
+        return f_xck(x,m,a,s)
+    if m<2269:
+        return f_hfv(x,m,a,s)
+    return f_ng(x,m,a,s)
+def f_mg(x,m,a,s):
+    if x<1565:
+        return True
+    return True
+def f_lvq(x,m,a,s):
+    if x>3284:
+        return False
+    if s>3217:
+        return False
+    return True
+def f_krr(x,m,a,s):
+    if a<3777:
+        return f_kc(x,m,a,s)
+    if x<239:
+        return True
+    return True
+def f_hb(x,m,a,s):
+    if x<2694:
+        return f_js(x,m,a,s)
+    return f_vm(x,m,a,s)
+def f_bx(x,m,a,s):
+    if a<1924:
+        return False
+    return f_ljq(x,m,a,s)
+def f_jzz(x,m,a,s):
+    if a<1738:
+        return f_cb(x,m,a,s)
+    if s>901:
+        return f_xhx(x,m,a,s)
+    if a>1962:
+        return False
+    return False
+def f_rr(x,m,a,s):
+    if s>896:
+        return True
+    return False
+def f_qcg(x,m,a,s):
+    if a<2516:
+        return False
+    return False
+def f_kxs(x,m,a,s):
+    if x>840:
+        return True
+    if x<747:
+        return True
+    if a>1356:
+        return True
+    return True
+def f_lfj(x,m,a,s):
+    if s<2038:
+        return f_zb(x,m,a,s)
+    if m<3166:
+        return f_gff(x,m,a,s)
+    if a>3183:
+        return f_xl(x,m,a,s)
+    return f_cc(x,m,a,s)
+def f_gqd(x,m,a,s):
+    if s>864:
+        return False
+    if a<2993:
+        return False
+    if a<3181:
+        return False
+    return True
+def f_dkd(x,m,a,s):
+    if x>2780:
+        return False
+    if m<441:
+        return True
+    return True
+def f_bjf(x,m,a,s):
+    if m>1394:
+        return False
+    if a>2548:
+        return True
+    return True
+def f_ch(x,m,a,s):
+    if m>3354:
+        return f_xjg(x,m,a,s)
+    return f_bmk(x,m,a,s)
+def f_vc(x,m,a,s):
+    if x>267:
+        return f_txp(x,m,a,s)
+    if x>173:
+        return f_gt(x,m,a,s)
+    return f_jlf(x,m,a,s)
+def f_jx(x,m,a,s):
+    if a<256:
+        return f_lgm(x,m,a,s)
+    return False
+def f_gfb(x,m,a,s):
+    if x<3822:
+        return True
+    if m>2902:
+        return f_zgd(x,m,a,s)
+    if x<3888:
+        return f_cbz(x,m,a,s)
+    return False
+def f_pk(x,m,a,s):
+    if s<1524:
+        return False
+    if s<2065:
+        return True
+    if a>3212:
+        return f_ffr(x,m,a,s)
+    return False
+def f_sm(x,m,a,s):
+    if m>974:
+        return f_pbr(x,m,a,s)
+    return True
+def f_jgl(x,m,a,s):
+    if m<2296:
+        return f_zcl(x,m,a,s)
+    if a>914:
+        return f_zzs(x,m,a,s)
+    if a<482:
+        return False
+    return f_gzd(x,m,a,s)
+def f_nhd(x,m,a,s):
+    if a<3391:
+        return True
+    return True
+def f_rm(x,m,a,s):
+    if x<2052:
+        return False
+    return True
+def f_hpb(x,m,a,s):
+    if x>65:
+        return False
+    if a>3263:
+        return f_cql(x,m,a,s)
+    if s<699:
+        return f_sxj(x,m,a,s)
+    return f_dkt(x,m,a,s)
+def f_xmg(x,m,a,s):
+    if a>1190:
+        return f_sk(x,m,a,s)
+    if a<652:
+        return f_jx(x,m,a,s)
+    if s>2015:
+        return f_qtr(x,m,a,s)
+    return f_kp(x,m,a,s)
+def f_fvb(x,m,a,s):
+    if s<2321:
+        return False
+    if x>3359:
+        return False
+    return False
+def f_gqk(x,m,a,s):
+    if a<2630:
+        return False
+    return True
+def f_zvr(x,m,a,s):
+    if s>1828:
+        return False
+    if x<3360:
+        return f_bqg(x,m,a,s)
+    if a>2878:
+        return f_vbb(x,m,a,s)
+    return f_tp(x,m,a,s)
+def f_cc(x,m,a,s):
+    if x>3643:
+        return f_trm(x,m,a,s)
+    return f_bn(x,m,a,s)
+def f_qj(x,m,a,s):
+    if a>3458:
+        return f_mq(x,m,a,s)
+    return f_ln(x,m,a,s)
+def f_pb(x,m,a,s):
+    if a<2589:
+        return True
+    if a>2846:
+        return True
+    if m<652:
+        return True
+    return True
+def f_kz(x,m,a,s):
+    if x<3313:
+        return True
+    return False
+def f_fhq(x,m,a,s):
+    if a<2306:
+        return f_bjl(x,m,a,s)
+    if a<3115:
+        return f_xf(x,m,a,s)
+    if s>3112:
+        return f_ccd(x,m,a,s)
+    return f_gf(x,m,a,s)
+def f_xdb(x,m,a,s):
+    if x<1943:
+        return f_xbb(x,m,a,s)
+    if s>3562:
+        return False
+    return True
+def f_xn(x,m,a,s):
+    if x<892:
+        return True
+    if a<3291:
+        return True
+    if x>1048:
+        return False
+    return True
+def f_dqf(x,m,a,s):
+    if x>3370:
+        return True
+    return True
+def f_jfs(x,m,a,s):
+    if a>3339:
+        return False
+    if a>3124:
+        return False
+    return True
+def f_xlf(x,m,a,s):
+    if x<3542:
+        return f_xsq(x,m,a,s)
+    return f_prm(x,m,a,s)
+def f_hq(x,m,a,s):
+    if s<3606:
+        return True
+    if s<3671:
+        return True
+    return False
+def f_mn(x,m,a,s):
+    if x<3346:
+        return False
+    return False
+def f_hj(x,m,a,s):
+    if a<2854:
+        return f_fz(x,m,a,s)
+    return True
+def f_bjg(x,m,a,s):
+    if s<1680:
+        return True
+    return False
+def f_bz(x,m,a,s):
+    if x<2925:
+        return True
+    if s<2864:
+        return f_gqt(x,m,a,s)
+    return f_kbk(x,m,a,s)
+def f_llm(x,m,a,s):
+    if x<2811:
+        return f_qcg(x,m,a,s)
+    if x>2864:
+        return False
+    if a>2745:
+        return True
+    return False
+def f_dq(x,m,a,s):
+    if x>3350:
+        return f_knc(x,m,a,s)
+    return f_lvq(x,m,a,s)
+def f_gn(x,m,a,s):
+    if x>3784:
+        return False
+    if a<2766:
+        return f_gqk(x,m,a,s)
+    return f_xxp(x,m,a,s)
+def f_vs(x,m,a,s):
+    if s<2568:
+        return f_jzn(x,m,a,s)
+    if x>2977:
+        return True
+    return False
+def f_mnv(x,m,a,s):
+    if m>2422:
+        return f_fk(x,m,a,s)
+    if x<3599:
+        return False
+    if a<3471:
+        return True
+    return False
+def f_qhh(x,m,a,s):
+    if x<2968:
+        return f_ljg(x,m,a,s)
+    return False
+def f_msk(x,m,a,s):
+    if a<1922:
+        return False
+    return f_cs(x,m,a,s)
+def f_rnz(x,m,a,s):
+    if m>540:
+        return False
+    return False
+def f_xgp(x,m,a,s):
+    if a>1935:
+        return False
+    if a>1818:
+        return f_dkd(x,m,a,s)
+    if a<1776:
+        return True
+    return True
+def f_qhv(x,m,a,s):
+    if a>998:
+        return True
+    if a<593:
+        return True
+    return f_hzm(x,m,a,s)
+def f_gf(x,m,a,s):
+    if x>1860:
+        return f_nts(x,m,a,s)
+    if a<3480:
+        return f_nq(x,m,a,s)
+    if s>2782:
+        return f_jd(x,m,a,s)
+    return f_zs(x,m,a,s)
+def f_nrz(x,m,a,s):
+    if m>3457:
+        return False
+    return False
+def f_pt(x,m,a,s):
+    if m>2776:
+        return False
+    return True
+def f_pbr(x,m,a,s):
+    if a>3065:
+        return False
+    if x>3090:
+        return True
+    if m>1827:
+        return False
+    return False
+def f_zb(x,m,a,s):
+    if x>3484:
+        return f_lgs(x,m,a,s)
+    if a>3470:
+        return f_bv(x,m,a,s)
+    return False
+def f_fpb(x,m,a,s):
+    if a<2199:
+        return f_dn(x,m,a,s)
+    if x>2822:
+        return f_fq(x,m,a,s)
+    return f_ssd(x,m,a,s)
+def f_bv(x,m,a,s):
+    if s>795:
+        return True
+    if s>510:
+        return False
+    return True
+def f_vnf(x,m,a,s):
+    if m>1189:
+        return True
+    return True
+def f_lv(x,m,a,s):
+    if m<3761:
+        return True
+    return True
+def f_hv(x,m,a,s):
+    if x<3464:
+        return True
+    return True
+def f_ffg(x,m,a,s):
+    if m>2301:
+        return f_bkf(x,m,a,s)
+    return f_bjf(x,m,a,s)
+def f_sk(x,m,a,s):
+    if s>1830:
+        return f_rhg(x,m,a,s)
+    if m<935:
+        return False
+    if m<1717:
+        return False
+    return f_qp(x,m,a,s)
+def f_znr(x,m,a,s):
+    if x>319:
+        return f_dj(x,m,a,s)
+    if m<1775:
+        return False
+    if m>2856:
+        return f_xcq(x,m,a,s)
+    return f_bc(x,m,a,s)
+def f_jtp(x,m,a,s):
+    if m<1284:
+        return False
+    return False
+def f_bj(x,m,a,s):
+    if x>2041:
+        return f_dt(x,m,a,s)
+    if s>2024:
+        return False
+    if m>2936:
+        return f_rx(x,m,a,s)
+    return False
+def f_rv(x,m,a,s):
+    if m>1140:
+        return False
+    if s>1291:
+        return False
+    if x>3930:
+        return True
+    return False
+def f_gkz(x,m,a,s):
+    if m<3746:
+        return True
+    if x>2666:
+        return True
+    return False
+def f_prv(x,m,a,s):
+    if x>1656:
+        return True
+    if x>1447:
+        return False
+    if m<1940:
+        return True
+    return False
+def f_dnh(x,m,a,s):
+    if s>2788:
+        return True
+    return False
+def f_qq(x,m,a,s):
+    if x>72:
+        return False
+    return True
+def f_vb(x,m,a,s):
+    if a<2857:
+        return f_rds(x,m,a,s)
+    if x<2718:
+        return False
+    return True
+def f_dj(x,m,a,s):
+    if s>419:
+        return True
+    if a>928:
+        return False
+    if x>421:
+        return False
+    return False
+def f_rc(x,m,a,s):
+    if a<1146:
+        return f_jct(x,m,a,s)
+    return False
+def f_bb(x,m,a,s):
+    if a>2075:
+        return f_zc(x,m,a,s)
+    return f_bzx(x,m,a,s)
+def f_jm(x,m,a,s):
+    if m<919:
+        return True
+    return False
+def f_jj(x,m,a,s):
+    if m<1067:
+        return False
+    if a<3369:
+        return True
+    return False
+def f_smb(x,m,a,s):
+    if a>645:
+        return False
+    return f_qzt(x,m,a,s)
+def f_lr(x,m,a,s):
+    if x>3337:
+        return f_thl(x,m,a,s)
+    if x>3276:
+        return True
+    if x<3223:
+        return f_vr(x,m,a,s)
+    return f_lm(x,m,a,s)
+def f_rq(x,m,a,s):
+    if a<3448:
+        return f_rdq(x,m,a,s)
+    return True
+def f_nsx(x,m,a,s):
+    if a>318:
+        return f_fvb(x,m,a,s)
+    return f_jk(x,m,a,s)
+def f_dqd(x,m,a,s):
+    if m<3010:
+        return f_jzr(x,m,a,s)
+    if x>3543:
+        return f_hrh(x,m,a,s)
+    if s<2149:
+        return f_qmn(x,m,a,s)
+    return f_cl(x,m,a,s)
+def f_vzs(x,m,a,s):
+    if m<3264:
+        return f_ffb(x,m,a,s)
+    if x<2813:
+        return f_bb(x,m,a,s)
+    if x>3004:
+        return f_jp(x,m,a,s)
+    return f_hgx(x,m,a,s)
+def f_cg(x,m,a,s):
+    if a<1077:
+        return True
+    if m>680:
+        return True
+    if s>3091:
+        return False
+    return False
+def f_thl(x,m,a,s):
+    if a<2939:
+        return False
+    if m>836:
+        return False
+    return False
+def f_lfb(x,m,a,s):
+    if s<3163:
+        return f_cxt(x,m,a,s)
+    return f_zbc(x,m,a,s)
+def f_hk(x,m,a,s):
+    if m>1305:
+        return f_lmt(x,m,a,s)
+    if s<1042:
+        return False
+    if x<3332:
+        return f_jzh(x,m,a,s)
+    return f_vnf(x,m,a,s)
+def f_lmb(x,m,a,s):
+    if s>392:
+        return True
+    if x>3497:
+        return False
+    return False
+def f_kp(x,m,a,s):
+    if s>1605:
+        return f_cgx(x,m,a,s)
+    if a<869:
+        return True
+    return True
+def f_rmg(x,m,a,s):
+    if m>3471:
+        return True
+    if a>1987:
+        return False
+    return True
+def f_cj(x,m,a,s):
+    if a<3154:
+        return f_xpd(x,m,a,s)
+    return f_qj(x,m,a,s)
+def f_hjh(x,m,a,s):
+    if s>438:
+        return f_ndp(x,m,a,s)
+    if x<2990:
+        return False
+    return False
+def f_lzj(x,m,a,s):
+    if m<3379:
+        return f_rbq(x,m,a,s)
+    if s<1060:
+        return False
+    if a<1413:
+        return False
+    return False
+def f_xt(x,m,a,s):
+    if x>3666:
+        return f_sq(x,m,a,s)
+    if s>3083:
+        return True
+    if m<1802:
+        return False
+    return False
+def f_xr(x,m,a,s):
+    if a<2655:
+        return f_sv(x,m,a,s)
+    if s>449:
+        return f_gqd(x,m,a,s)
+    return False
+def f_pj(x,m,a,s):
+    if x<1807:
+        return False
+    if s<3030:
+        return f_dm(x,m,a,s)
+    return f_fx(x,m,a,s)
+def f_hp(x,m,a,s):
+    if a>3286:
+        return False
+    if x>1486:
+        return False
+    return True
+def f_ppq(x,m,a,s):
+    if s>374:
+        return True
+    return True
+def f_xpd(x,m,a,s):
+    if a<2339:
+        return f_stf(x,m,a,s)
+    if a>2848:
+        return f_ll(x,m,a,s)
+    return f_md(x,m,a,s)
+def f_bdj(x,m,a,s):
+    if m<1473:
+        return False
+    if a<2491:
+        return True
+    if x>1144:
+        return False
+    return True
+def f_fn(x,m,a,s):
+    if a<3456:
+        return True
+    return False
+def f_lmt(x,m,a,s):
+    if a<3104:
+        return True
+    return False
+def f_sdc(x,m,a,s):
+    if m<660:
+        return False
+    return False
+def f_qb(x,m,a,s):
+    if x>3231:
+        return False
+    return True
+def f_ds(x,m,a,s):
+    if x<2355:
+        return False
+    return True
+def f_hcv(x,m,a,s):
+    if m<452:
+        return False
+    return False
+def f_cgx(x,m,a,s):
+    if s<1866:
+        return True
+    if x>1983:
+        return False
+    if a>849:
+        return True
+    return False
+def f_ndp(x,m,a,s):
+    if x>2968:
+        return True
+    if m<2909:
+        return True
+    return True
+def f_nl(x,m,a,s):
+    if s<2686:
+        return False
+    if m<1818:
+        return True
+    if m<3153:
+        return True
+    return True
+def f_rp(x,m,a,s):
+    if a>3751:
+        return True
+    if s>1387:
+        return True
+    if x>3721:
+        return False
+    return True
+def f_rgg(x,m,a,s):
+    if m>944:
+        return False
+    if s<1930:
+        return f_vcp(x,m,a,s)
+    if m>413:
+        return f_mg(x,m,a,s)
+    return f_bpr(x,m,a,s)
+def f_jsx(x,m,a,s):
+    if x<2639:
+        return False
+    if a<2210:
+        return True
+    if m>949:
+        return False
+    return False
+def f_ffr(x,m,a,s):
+    if a<3563:
+        return True
+    if x>3419:
+        return True
+    if a>3749:
+        return False
+    return True
+def f_nxp(x,m,a,s):
+    if m<571:
+        return f_hsf(x,m,a,s)
+    if m<1063:
+        return f_lsg(x,m,a,s)
+    if m<1247:
+        return True
+    return f_lls(x,m,a,s)
+def f_tmh(x,m,a,s):
+    if m>2732:
+        return True
+    return True
+def f_gfc(x,m,a,s):
+    if x>3656:
+        return False
+    if s>1835:
+        return False
+    return False
+def f_jvl(x,m,a,s):
+    if s>3628:
+        return True
+    return True
+def f_dgp(x,m,a,s):
+    if a<3391:
+        return False
+    return False
