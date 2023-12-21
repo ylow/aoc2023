@@ -1,0 +1,58 @@
+%qx -> gz
+%tr -> rm
+%qr -> rgans4, jm
+%gj -> tx, rgans2
+%lc -> hr
+&rgans4 -> zs, br, jd, bj, rg4
+%rm -> rgans3, ml
+%tg -> rgans1, cp
+%cp -> tp, rgans1
+%sx -> qc, rgans3
+%jz -> rgans4, pt
+%dt -> tg, rgans1
+%xv -> rgans2
+%vz -> rgans2, xv
+%vn -> vv, rgans1
+%hl -> xt
+%qc -> rgans3
+%br -> jz
+broadcaster -> sr, cg, dt, zs
+%sk -> rgans4, qr
+%xq -> dj
+%zd -> rgans3, lc
+%hr -> pm
+%cg -> qx, rgans2
+%tx -> vz, rgans2
+%qf -> sb
+&rgans2 -> rg2, sb, qx, qf, gz, hl, cg
+%rb -> lz
+%ml -> rgans3, xq
+%bj -> jd
+%sr -> rgans3, zd
+%sb -> gj
+&rgans1 -> tp, rb, dt, rg1, zt
+%tp -> dm
+%vv -> rgans1
+%pm -> tr
+%dj -> rgans3, sx
+%lz -> vn, rgans1
+%jd -> lx
+%qn -> rgans1, rb
+%zs -> rgans4, bj
+&rg -> rx
+%pt -> cb, rgans4
+%xt -> ns, rgans2
+%gz -> hl
+%zt -> qn
+%jm -> rgans4
+%vp -> br, rgans4
+&rgans3 -> tr, hr, rg3, sr, xq, pm, lc
+%gp -> rgans1, zt
+%dm -> rgans1, gp
+%lx -> rgans4, vp
+%ns -> qf, rgans2
+%cb -> sk, rgans4
+&rg1 -> rg
+&rg2 -> rg
+&rg3 -> rg
+&rg4 -> rg
