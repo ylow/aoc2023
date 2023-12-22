@@ -72,7 +72,7 @@ class Empty(object):
         pass
 
 mods = {}
-lines = [x.strip() for x in open('cleaned_input','r')]
+lines = [x.strip() for x in open('bryanday20.txt','r')]
 out_edges = {}
 for l in lines:
     modname, outputs = [x.strip() for x in l.split("->")]
@@ -135,7 +135,7 @@ for k,v in out_edges.items():
     for v2 in v:
         print(f"{k} -> {v2}")
 
-BATCH_SIZE = 100
+exit()
 button_presses = 0
 # &rg goes to rx
 stateprint = ['qx','gz','hl','xt','ns','qf','sb','gj','tx','vz','xv']
