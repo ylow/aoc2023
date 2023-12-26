@@ -1,36 +1,38 @@
-from collections import defaultdict
-graph = defaultdict(lambda : [])
-for l in open("input2","r"):
-    l, r = l.strip().split(':')
-    l = l.strip()
+import numpy as np
+import scipy
+nodes = {}
+deg = {}
+elist = []
+for line in open("size-1048576.txt","r"):
+    lhs, r = line.strip().split(':')
+    i = lhs.strip()
     r = [x.strip() for x in r.strip().split(' ')]
     for j in r:
-        graph[l].append(j)
-        graph[j].append(l)
+        if i not in nodes:
+            nodes[i] = len(nodes)
+        if j not in nodes:
+            nodes[j] = len(nodes)
+        ni = nodes[i]
+        nj = nodes[j]
+        if ni not in deg:
+            deg[ni] = 0
+        if nj not in deg:
+            deg[nj] = 0
+        deg[ni] += 1
+        deg[nj] += 1
+        elist.append((ni,nj, 1))
+        elist.append((nj,ni, 1))
 
-print ("graph g{")
-for k,v in graph.items():
-    for j in v:
-        if k< j:
-            print(f"{k} -- {j}")
-print("}")
-# from plotting graph with neato, these 3 are the edges
-# kzh -- rks
-# ddc -- gqm
-# tnz -- dgt
-print(len(graph), "vertices")
+elist = np.array(elist)
+print(elist)
+lap = scipy.sparse.coo_array((elist[:,2], (elist[:,0], elist[:,1]))).asfptype()
+val, vecs = scipy.sparse.linalg.eigs(lap, k = 2)
+vecs = np.real(vecs)
+import sklearn.cluster
+model = sklearn.cluster.KMeans(2)
+model.fit(vecs)
 
-visited = defaultdict(lambda : False)
-q = [list(graph.keys())[0]]
-while len(q) > 0:
-    q2 = []
-    for v in q:
-        if visited[v] == True:
-            continue
-        for nbr in graph[v]:
-            q2.append(nbr)
-        visited[v] = True
-    q = list(set(q2))
+# labels are 0 or 1. So summing it will give us the size of one cluster
+clustersize = model.labels_.sum() 
+print(clustersize * (len(nodes) - clustersize))
 
-print(len(visited))
-print(len(visited) * (len(graph) - len(visited)))
