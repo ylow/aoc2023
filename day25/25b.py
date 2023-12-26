@@ -1,7 +1,6 @@
 import numpy as np
 import scipy
 nodes = {}
-deg = {}
 elist = []
 for line in open("size-1048576.txt","r"):
     lhs, r = line.strip().split(':')
@@ -14,12 +13,6 @@ for line in open("size-1048576.txt","r"):
             nodes[j] = len(nodes)
         ni = nodes[i]
         nj = nodes[j]
-        if ni not in deg:
-            deg[ni] = 0
-        if nj not in deg:
-            deg[nj] = 0
-        deg[ni] += 1
-        deg[nj] += 1
         elist.append((ni,nj, 1))
         elist.append((nj,ni, 1))
 
